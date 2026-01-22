@@ -13,3 +13,11 @@ wheels/
 # Project specific files
 sample_code.py
 data/
+
+# Frontend
+node_modules/
+.env
+.env.local
+__pycache__/
+venv/
+.vscode/
